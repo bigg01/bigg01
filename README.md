@@ -11,7 +11,4 @@ bigg01/bigg01 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<div style="display: flex; justify-content: space-between;">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigG01&layout=compact&langs_count=10&show_icons=true&hide_border=true&theme=radical"/>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=bigG01&show_icons=true&hide_border=true&theme=radical"/>
-</div>
+![bigG0@'s GitHub stats](https://github-readme-stats.vercel.app/api?username=bigG01&show_icons=true&theme=dark)
