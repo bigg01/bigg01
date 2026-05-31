@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigg01
-- 👀 I’m interested in `cloud native`, `Multi-Cloud`, `container`, `kubernetes`, `automation`, `python`, `golang`
+- 👀 I’m interested in `Solution Design`, `cloud native`, `Multi-Cloud`, `container`, `kubernetes`, `AI`, `automation`, `python`, `golang`
 
 * [GITHUB](https://github.com/bigg01)
 * [LINKEDIN](https://www.linkedin.com/in/oliver-guggenb%C3%BChl-12370198/)
