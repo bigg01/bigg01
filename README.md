@@ -11,4 +11,6 @@ bigg01/bigg01 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-![bigg01's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bigg01&theme=vue-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=bigg01&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=bigg01&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bigg01&layout=compact&theme=tokyonight)
